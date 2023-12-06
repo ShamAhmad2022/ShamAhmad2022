@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sham 👩‍💻</h1>
+<!-- <h1 align="center">Hi , I'm Sham 👩‍💻</h1> -->
 
 <!-- <h3 align="left">Skills:</h3>
 <p align="left"> 
@@ -15,8 +15,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p> -->
 
-<h3 align="center">I speak in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30"/></h3>
-<h3 align="center">I turn ☕ into code</h3>
+<h3 align="center" style="font-size: 30px;">I speak in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30"/></h3>
+<h3 align="center"  style="font-size: 30px;">I turn ☕ into code</h3>
 
 <br>
 <br>
