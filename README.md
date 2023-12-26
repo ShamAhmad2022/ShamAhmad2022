@@ -22,5 +22,5 @@
 LinkedIn: <a href="https://linkedin.com/in/sham-al-jalam" target="blank">https://linkedin.com/in/sham-al-jalam</a>
 </p>
 <p align="left">
-CV: <a href="https://drive.google.com/file/d/1LQeNf057MEO8HrqMxqde1hVRxKa5rRIB/view?usp=sharing" target="blank">https://drive.google.com/file/d/1LQeNf057MEO8HrqMxqde1hVRxKa5rRIB/view?usp=sharing</a>
+CV: <a href="https://drive.google.com/file/d/1CIDGABaV61Ygnue52TiZM6zh7Uno160d/view" target="blank">https://drive.google.com/file/d/1CIDGABaV61Ygnue52TiZM6zh7Uno160d/view</a>
 </p>
