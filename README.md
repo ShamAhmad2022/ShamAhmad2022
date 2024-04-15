@@ -24,3 +24,7 @@ LinkedIn: <a href="https://linkedin.com/in/sham-al-jalam" target="blank">https:/
 <p align="left">
  CV: <a href="https://drive.google.com/file/d/1pszaK825YlrTGHRY9Pr0eF0t6WEZfS76/view" target="blank"> https://drive.google.com/file/d/1pszaK825YlrTGHRY9Pr0eF0t6WEZfS76/view?usp=sharing</a>
 </p>
+<p align="left">
+ Portfolio: <a href="https://sham-aj-portfolio.vercel.app" target="blank">https://sham-aj-portfolio.vercel.app</a>
+</p>
+
