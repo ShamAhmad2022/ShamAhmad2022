@@ -17,11 +17,12 @@
 
 <h1 align="center" style="font-size: 30px;">I speak in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30"/></h1>
 <h1 align="center"  style="font-size: 30px;">I turn ☕ into code</h1>
+<h1 align="center"  style="font-size: 30px;">Currently learning <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)" alt="javascript" width="30"/></h1>
 
-<p align="left">
+<!--<p align="left">
  Portfolio: <a href="https://sham-aj-portfolio.vercel.app" target="blank">https://sham-aj-portfolio.vercel.app</a>
 </p>
-<!-- <p align="left">
+<p align="left">
 LinkedIn: <a href="https://linkedin.com/in/sham-al-jalam" target="blank">https://linkedin.com/in/sham-al-jalam</a>
 </p>
 <p align="left">
